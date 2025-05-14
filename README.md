@@ -79,17 +79,3 @@ To build an end-to-end machine learning pipeline that:
 
 ---
 
-## 📂 How to Run
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/student-performance-predictor.git
-
-# Navigate into the project folder
-cd student-performance-predictor
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook
-jupyter notebook Student_Performance_Analysis.ipynb
