@@ -62,7 +62,7 @@ To build an end-to-end machine learning pipeline that:
 
 ## ✅ Results
 
-- Achieved **~XX% accuracy** in predicting whether a student will pass/fail.
+- Achieved **~91% accuracy** in predicting whether a student will pass/fail.
 - Key features impacting performance:
   - Study Hours
   - Attendance Rate
